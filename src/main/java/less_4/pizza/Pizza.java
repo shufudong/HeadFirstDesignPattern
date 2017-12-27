@@ -6,4 +6,12 @@ package less_4.pizza;
  * @date 2017-12-26 2:25
  */
 public interface Pizza {
+
+    void prepare();
+
+    void bake();
+
+    void cut();
+
+    void box();
 }
