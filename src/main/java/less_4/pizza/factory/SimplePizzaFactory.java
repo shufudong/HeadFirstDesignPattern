@@ -1,4 +1,6 @@
-package less_4.pizza;
+package less_4.pizza.factory;
+
+import less_4.pizza.*;
 
 /**
  * @author shufd
